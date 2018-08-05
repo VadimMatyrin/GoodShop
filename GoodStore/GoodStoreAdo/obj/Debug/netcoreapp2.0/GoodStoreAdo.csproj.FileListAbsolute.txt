@@ -1,0 +1,12 @@
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\GoodStoreAdo.deps.json
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\GoodStoreAdo.runtimeconfig.json
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\GoodStoreAdo.runtimeconfig.dev.json
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\GoodStoreAdo.dll
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\GoodStoreAdo.pdb
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.dll
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\obj\Debug\netcoreapp2.0\GoodStoreAdo.pdb
+C:\Users\Вадим\source\repos\GoodStore\GoodStoreAdo\bin\Debug\netcoreapp2.0\appsettings.json
